@@ -1,7 +1,8 @@
 
 React JS Props Exmaple :
 Different data in the same Netflix Card Components
-<img src="imagesgit/capture.PNG" />
+<img src="netflix-prop-example
+/imagesgit/capture.PNG" />
 
 -------------------------------------------------------------------------------------------------
 
