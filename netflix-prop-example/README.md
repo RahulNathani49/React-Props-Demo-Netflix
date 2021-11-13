@@ -1,3 +1,10 @@
+
+React JS Props Exmaple :
+Different data in the same Netflix Card Components
+<img src="imagesgit/capture.png" />
+
+-------------------------------------------------------------------------------------------------
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
